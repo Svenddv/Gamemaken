@@ -1,3 +1,3 @@
-# Mergeconflict tutorial
+# Mergeconflict tutorial SBE1
 
-dit is een test 
+Mos Eisley
