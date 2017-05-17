@@ -1,3 +1,3 @@
-# Mergeconflict tutorial
+# Tutorial mergeconflic 
 
-dit is een test 
+you will never find a more treacherous hive of scum and villainy
